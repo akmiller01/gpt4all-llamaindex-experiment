@@ -60,6 +60,7 @@ pydeck==0.8.0
 Pygments==2.14.0
 pyllamacpp==1.0.5
 Pympler==1.0.1
+pypdf2==3.0.1
 pyrsistent==0.19.3
 python-dateutil==2.8.2
 pytz==2023.3
