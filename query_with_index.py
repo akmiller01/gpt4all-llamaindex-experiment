@@ -1,5 +1,5 @@
 from langchain.llms import LlamaCpp
-from llama_index import LLMPredictor, ServiceContext, SimpleDirectoryReader, GPTSimpleVectorIndex, LangchainEmbedding
+from llama_index import LLMPredictor, ServiceContext, GPTSimpleVectorIndex, LangchainEmbedding
 from langchain.embeddings.huggingface import HuggingFaceEmbeddings
 
 embed_model = LangchainEmbedding(HuggingFaceEmbeddings())

@@ -23,7 +23,7 @@ pip install sentence_transformers
 ## Run
 ```
 source venv/bin/activate
-python3 index.py
+python3 index.py # Note, each document must be less than ~512 tokens
 python3 query_without_index.py
 python3 query_with_index.py
 ```
@@ -33,9 +33,10 @@ Question: What role does the public sector play in rural development?
 
 Without index:
 
-The public sector plays a crucial role in rural development. This sector can provide vital services such as education, healthcare, transportation, and electricity to rural areas that are not well-equipped with these facilities. It can also offer support for developing small and medium enterprises (SMEs) in the agricultural and manufacturing sectors of rural communities. Additionally, the public sector can provide financial assistance through schemes such as microfinance loans and credit programs. This type of assistance helps improve the economic status of the rural community by empowering individuals with the necessary skills to start and run a business or become financially independent. Furthermore, it can also help in promoting tourism in the area that could lead to more employment opportunities. Overall, the public sector plays an instrumental role in promoting development and improving the quality of life for rural communities.
+1. The Public Sector plays a crucial role in Rural Development by providing infrastructure, services and employment opportunities to the underprivileged population in rural areas. 2. They provide access to basic amenities such as roads, schools, health centres etc., which are essential for people's livelihood. 3. The Public Sector also helps in developing infrastructure like bridges, dams and water reservoirs that aid the farmers in boosting their agricultural output. 4. In terms of employment opportunities, public sector units located in rural areas offer jobs to local people who may not have access to private or corporate sectors. 5. These public sector units also help to empower the women folk and create a more gender-equal society.
 
 
 With index:
 
-The public sector plays an important role in rural development by providing both investment and policy support to tackle persistent market failures such as the under-provision of public goods and negative externalities (such as adaptation to climate change). The public sector also addresses the lack of protection for the poorest and most vulnerable people through, for instance, social protection. Similarly, digitalization is mostly financed by government entities and the private sector but public investment and ODA in particular fill an important gap where the private sector lacks incentives to intervene, such as in countering the digital divide. Overall, ODA is a critical public international resource that can help governments achieve sectoral development objectives that feed into wider national objectives, such as poverty reduction and sustainable development.
+The public sector plays a crucial role in rural development by providing investment and policy support to address market failures such as the under-provision of public goods and negative externalities. By investing in infrastructure and social services, the public sector can ensure access to markets and services for the poorest and most vulnerable populations. In addition, policies promoting sustainable agriculture and rural development can also play an important role in improving livelihoods in these areas.
+
