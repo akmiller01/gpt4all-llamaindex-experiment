@@ -17,6 +17,7 @@ pyllamacpp-convert-gpt4all ../gpt4all/chat/gpt4all-lora-quantized.bin llama/toke
 pip uninstall -y langchain
 pip install --upgrade git+https://github.com/hwchase17/langchain.git
 pip install llama-cpp-python
+pip install sentence_transformers
 ```
 
 ## Run
