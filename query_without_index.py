@@ -7,6 +7,6 @@ Answer: """
 prompt = PromptTemplate(template=template, input_variables=["question"])
 llm = LlamaCpp(model_path="../gpt4all/chat/gpt4all-lora-q-converted.bin")
 llm_chain = LLMChain(prompt=prompt, llm=llm)
-question = "What role does the public sector play in rural development?"
+question = "What factors have primarily caused driven changes in volumes of ODA in the last 10 years?"
 response = llm_chain.run(question)
 print(response)

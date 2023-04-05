@@ -8,5 +8,5 @@ service_context = ServiceContext.from_defaults(llm_predictor=llm_predictor, embe
 
 index = GPTSimpleVectorIndex.load_from_disk('index.json', service_context=service_context)
 
-response = index.query("What role does the public sector play in rural development?")
+response = index.query("What factors have primarily caused driven changes in volumes of ODA in the last 10 years?")
 print(response)
