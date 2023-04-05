@@ -1,0 +1,8 @@
+Notes: ODA = official development assistance; LMIC = lower middle-income country; LDC = least developed
+country; UMIC = upper middle-income country. Covid ODA is identified using purpose code 12264 and the
+‘keyword’ variable. For convenience, the LDC category includes ‘other LICs’, and the UMICs category includes
+a small amount of aid to ‘More advanced countries and territories (MADCCTs)’. This is a very small share of the
+total in each case. ODA unallocated by income is that for which a specific recipient country cannot be identified,
+for example, because it has been given to a special purpose fund which operates in numerous countries.
+Ultimately, some of this aid will be spent in LDCs which could change the picture. It is not
+clear whether this overstates or understates the decline in bilateral ODA to LDCs. While

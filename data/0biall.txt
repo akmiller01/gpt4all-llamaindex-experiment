@@ -1,0 +1,8 @@
+0.0
+1960 1965 1970 1975 1980 1985 1990 1995 2000 2005 2010 2015 2020 2025 2030
+Source: Development Initiatives based on Bhattacharya et al. (2022) and OECD CRS.
+Notes: ODA = official development assistance; GNI = gross national income; DAC = Development Assistance
+Committee (OECD). ODA from DAC members in gross disbursements, constant 2020 US$.
+How much aid actually reaches the countries with the greatest poverty?
+/ devinit.org
+9Figure 2: Estimated finance needs to meet the SDGs: 2019, 2025 and 2030

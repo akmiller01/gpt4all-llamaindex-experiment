@@ -1,0 +1,8 @@
+2018
+2019
+2020
+2021
+Source: Development Initiatives based on OECD CRS.
+Notes: ODA = official development assistance; DAC = Development Assistance Committee (OECD); LDC =
+least developed country; LIC = low-income country; UMIC = upper middle-income country. Covid aid is identified
+using purpose code 12264 and the ‘keyword’ variable. For convenience, the LDC category includes ‘other LICs’.

@@ -1,0 +1,8 @@
+18
+World Bank Data, ‘Military expenditure (% of general government expenditure)’, ID: MS.MIL.XPND.ZS.
+Available at: https://data.worldbank.org/indicator/MS.MIL.XPND.ZS
+19
+See for example Manuel, 2023. Financing social assistance in lower income countries post Covid-19, ODI.
+Available at: https://odi.org/en/publications/financing-social-assistance-in-lower-income-countries-post-covid-19-
+an-exploration-of-realistic-options/
+20

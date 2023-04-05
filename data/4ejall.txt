@@ -1,0 +1,8 @@
+2019
+2020
+2021
+Source: Development Initiatives based on OECD CRS.
+Notes: ODA = official development assistance; LMIC = lower middle-income country; LDC = least developed
+country; UMIC = upper middle-income country. Covid ODA is identified using purpose code 12264 and the
+‘keyword’ variable. For convenience, the LDC category includes ‘other LICs’, and the UMICs category includes
+a small amount of aid to ‘More advanced countries and territories (MADCCTs)’. This is a very small share of the

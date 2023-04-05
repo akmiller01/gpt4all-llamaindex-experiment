@@ -1,0 +1,8 @@
+income
+25
+20
+15
+10
+5
+Unallocated by income
+LMICs

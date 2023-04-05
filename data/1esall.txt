@@ -1,0 +1,8 @@
+14
+10
+15
+30
+Loans/equity
+25
+Grants
+20
