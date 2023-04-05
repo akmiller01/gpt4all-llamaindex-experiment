@@ -33,12 +33,18 @@ python3 query_with_index.py
 
 Without index:
 
-1\. The Public Sector plays a crucial role in Rural Development by providing infrastructure, services and employment opportunities to the underprivileged population in rural areas. 2. They provide access to basic amenities such as roads, schools, health centres etc., which are essential for people's livelihood. 3. The Public Sector also helps in developing infrastructure like bridges, dams and water reservoirs that aid the farmers in boosting their agricultural output. 4. In terms of employment opportunities, public sector units located in rural areas offer jobs to local people who may not have access to private or corporate sectors. 5. These public sector units also help to empower the women folk and create a more gender-equal society.
+1\. The Public Sector plays a crucial role in Rural Development by providing infrastructure, services and employment opportunities to the underprivileged population in rural areas. 
+2\. They provide access to basic amenities such as roads, schools, health centres etc., which are essential for people's livelihood.
+3\. The Public Sector also helps in developing infrastructure like bridges, dams and water reservoirs that aid the farmers in boosting their agricultural output.
+4\. In terms of employment opportunities, public sector units located in rural areas offer jobs to local people who may not have access to private or corporate sectors.
+5\. These public sector units also help to empower the women folk and create a more gender-equal society.
 
 
 With index:
 
-The public sector plays a crucial role in rural development by providing investment and policy support to address market failures such as the under-provision of public goods and negative externalities. By investing in infrastructure and social services, the public sector can ensure access to markets and services for the poorest and most vulnerable populations. In addition, policies promoting sustainable agriculture and rural development can also play an important role in improving livelihoods in these areas.
+1\. The public sector has a key role to play in providing investment and policy support to tackle persistent market failures such as under-provision of public goods (e.g., infrastructure, healthcare) and negative externalities (such as climate change adaptation).
+2\. It is also crucial for the public sector to address the lack of protection for the poorest and most vulnerable people through targeted investment programs and policies that aim to alleviate poverty.
+3\. The private sector plays a vital role in rural development, especially in agriculture and rural development, but there is still much to learn about the role of the private sector in supporting the poorest and most vulnerable people and the extent to which investments specifically target this group.
 
 ### Question: What factors have primarily caused driven changes in volumes of ODA in the last 10 years?
 
@@ -54,4 +60,4 @@ There are several factors that have contributed to driven changes in the volume 
 
 With index:
 
-The primary factors that have contributed to driving changes in volumes of ODA in the last 10 years are the Millennium Development Goals (MDGs) and increased bilateral aid from major donor countries.
+The factors that have primarily caused the changes in volumes of ODA in the last 10 years can be attributed to a combination of factors. Some of these factors include political will, donor commitment, multilateral cooperation, and global economic trends such as inflation and currency fluctuations. These factors play a crucial role in determining the direction and rate of change in volumes of ODA over time. However, it is important to note that these factors are not mutually exclusive and can often work synergistically to affect overall ODA flows.
